@@ -8,4 +8,4 @@ Los detalles se presentan en el archivos 'datos_proc' de la carpeta 'R', y el te
 
 Para finalizar, en el transcurso de este importante proceso político del país, iré dejando las conslusiones necesarias para abrir diálogo y reflexionar sobre el futuro político del país. Tomen a este proyecto, en principio, como un acercamiento técnico a la mineria de textos políticos, más que un estudio politológico.
 
-pd: ya subí la actualización de la minería de datos con el documento oficial publicado el día 5 de julio del año 2022.
+pd: ya subí la actualización de la minería de datos con el documento oficial publicado el día 4 de julio del año 2022.
